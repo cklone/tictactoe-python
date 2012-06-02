@@ -1,0 +1,13 @@
+===========
+Tic-Tac-Toe
+===========
+A command-line game of tic-tac-toe written in python 2.7.
+
+===============
+Getting Started
+===============
+Play the game:
+  $ python tic_tac_toe.py
+
+Run tests:
+  $ python run_tests.py

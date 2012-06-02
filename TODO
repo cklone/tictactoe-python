@@ -1,0 +1,8 @@
+* Check python version
+* Write more tests
+* Fix to allow head-to-head play (almost there)
+* Command-line option to set size of board (support there)
+* Add support for smaller chain to win (e.g. any 3-in-a-row for 5x5 board)
+* Use ncurses for more fun
+* Allow user to play again
+* Write a more intelligent AIPlayer
